@@ -1,0 +1,8 @@
+User.create!(name:"田中" ,age:3)
+User.create!(name:"大堀" ,age:1)
+User.create!(name:"砂糖" ,age:2)
+User.create!(name:"開けだ" ,age:4)
+User.create!(name:"エレン" ,age:55)
+User.create!(name:"イエーガー" ,age:65)
+User.create!(name:"ミカサ" ,age:5)
+User.create!(name:"アルミン" ,age:6)
